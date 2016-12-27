@@ -1,0 +1,61 @@
+
+#firstNav{
+	background-color:#5057DB;
+	height:10%;
+}
+#logo{
+	color:#f2f2f2;
+	font-size:200%;
+}
+.categories{
+	border:none;
+	background-color:#5057DB;
+	color:white;
+	padding:19px;
+	font-size:120%;
+	width:200px;
+}
+.categories:hover{
+	background-color:#5057DB;
+	color:black;
+}
+.categories:focus{
+	background-color:#8080ff;
+	color:black;
+}
+
+.navRight{
+	border:none;
+	background-color:#5057DB;
+	color:white;
+	padding:22px;
+	font-size:120%;
+	width:200px;
+}
+.navRight:hover{
+	background-color:#5057DB;
+	color:black;
+}
+.navRight:focus{
+	background-color:#8080ff;
+	color:black;
+}
+.pages{
+	background-color:#5057DB;
+	height:40px;
+}
+.pages:hover{
+	background-color:#5057DB;
+color:black;
+}
+.pages:active{
+	background-color:red;
+	color:black;
+}
+.pages:focus{
+	background-color:#5057DB;
+	color:black;
+}
+.submit{
+	width:150px;
+}
